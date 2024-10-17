@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                 }
                 texto.text = "$resultado"
             } else {
-                texto.text = "Introduce un número válido"
+                texto.text = "Introduce un número válido."
             }
         }
     }
